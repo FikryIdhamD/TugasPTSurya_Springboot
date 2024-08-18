@@ -36,7 +36,7 @@ Proyek ini adalah implementasi dari RestAPI menggunakan Java Spring Boot. Proyek
         ![image](https://github.com/user-attachments/assets/83cd33f0-e5b2-447c-ae39-3aba2e4f6f4d)
 
 
-# Contoh Data untuk Pengisian Data Lokasi
+# [OPSIONAL] Contoh Data untuk Pengisian Data Lokasi
 
 Berikut adalah data yang bisa digunakan untuk mengisi data Lokasi di RestAPI:
 
@@ -132,7 +132,7 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Lokasi di RestAPI:
 
 ## Catatan: Masukkan data satu per satu, jangan langsung keseluruhan.
 
-# Contoh Data untuk Pengisian Data Proyek
+# [OPSIONAL] Contoh Data untuk Pengisian Data Proyek
 
 Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
 
