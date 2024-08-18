@@ -1,0 +1,8 @@
+com\example\demo\config\SwaggerConfig.class
+com\example\demo\controller\LokasiController.class
+com\example\demo\DemoApplication.class
+com\example\demo\repository\LokasiRepository.class
+com\example\demo\model\Proyek.class
+com\example\demo\model\Lokasi.class
+com\example\demo\controller\ProyekController.class
+com\example\demo\repository\ProyekRepository.class
