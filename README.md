@@ -22,7 +22,7 @@ Proyek ini adalah implementasi dari RestAPI menggunakan Java Spring Boot. Proyek
 4. **Pengujian API**:
    - Disarankan untuk menggunakan **Postman** untuk menguji fungsi **POST**, **GET**, **PUT**, dan **DELETE** dari API ini.
 
-## Contoh Data untuk Pengisian Data Lokasi
+# Contoh Data untuk Pengisian Data Lokasi
 
 Berikut adalah data yang bisa digunakan untuk mengisi data Lokasi di RestAPI:
 
@@ -116,9 +116,9 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Lokasi di RestAPI:
 }
 ```
 
-# Catatan: Masukkan data satu per satu, jangan secara keseluruhan.
+## Catatan: Masukkan data satu per satu, jangan secara keseluruhan.
 
-## Contoh Data untuk Pengisian Data Proyek
+# Contoh Data untuk Pengisian Data Proyek
 
 Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
 
@@ -197,8 +197,8 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
 }
 ```
 
-# Catatan: Pastikan data Lokasi sudah dimasukkan terlebih dahulu sebelum mengisi data Proyek.
+## Catatan: Pastikan data Lokasi sudah dimasukkan terlebih dahulu sebelum mengisi data Proyek.
 
-## Langkah Selanjutnya
+# Langkah Selanjutnya
 
-Setelah semua langkah di atas selesai, Anda dapat melanjutkan untuk melihat kode dan dokumentasi lebih lanjut di repository GitHub ini: [TugasPTSurya: PHP Framework Codeigniter3](https://github.com/FikryIdhamD/TugasPTSurya_CI3_PHP)
+Setelah semua langkah di atas selesai, Anda dapat melanjutkan untuk melihat kode dan dokumentasi lebih lanjut di repository GitHub ini: [TugasPTSurya: PHP Framework Codeigniter3](https://github.com/FikryIdhamD/TugasPTSurya_CI3_PHP) untuk melanjutkan implementasi RestAPI - Java Spring Boot pada PHP Framework Codeigniter 3
