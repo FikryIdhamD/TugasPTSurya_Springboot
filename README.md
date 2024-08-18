@@ -33,7 +33,7 @@ Proyek ini adalah implementasi dari RestAPI menggunakan Java Spring Boot. Proyek
    - **PUT** = Memperbaharui Lokasi/Proyek sesuai dengan id
    - **DELETE** = Menghapus Lokasi/Proyek sesuai dengan id
 
-    ![image](https://github.com/user-attachments/assets/83cd33f0-e5b2-447c-ae39-3aba2e4f6f4d)
+        ![image](https://github.com/user-attachments/assets/83cd33f0-e5b2-447c-ae39-3aba2e4f6f4d)
 
 
 # Contoh Data untuk Pengisian Data Lokasi
