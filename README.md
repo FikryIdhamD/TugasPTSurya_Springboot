@@ -35,68 +35,86 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Lokasi di RestAPI:
 }
 ```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Surabaya",
     "negara": "Indonesia",
     "provinsi": "Jawa Timur",
     "kota": "Surabaya"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Bandung",
     "negara": "Indonesia",
     "provinsi": "Jawa Barat",
     "kota": "Bandung"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Medan",
     "negara": "Indonesia",
     "provinsi": "Sumatera Utara",
     "kota": "Medan"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Makassar",
     "negara": "Indonesia",
     "provinsi": "Sulawesi Selatan",
     "kota": "Makassar"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Denpasar",
     "negara": "Indonesia",
     "provinsi": "Bali",
     "kota": "Denpasar"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Yogyakarta",
     "negara": "Indonesia",
     "provinsi": "DI Yogyakarta",
     "kota": "Yogyakarta"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Semarang",
     "negara": "Indonesia",
     "provinsi": "Jawa Tengah",
     "kota": "Semarang"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Palembang",
     "negara": "Indonesia",
     "provinsi": "Sumatera Selatan",
     "kota": "Palembang"
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaLokasi": "Balikpapan",
     "negara": "Indonesia",
     "provinsi": "Kalimantan Timur",
     "kota": "Balikpapan"
 }
+```
 
 # Catatan: Masukkan data satu per satu, jangan secara keseluruhan.
 
@@ -117,7 +135,9 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
         { "id": 2 }
     ]
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaProyek": "Proyek B",
     "client": "PT. ABC",
@@ -130,7 +150,9 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
         { "id": 4 }
     ]
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaProyek": "Proyek C",
     "client": "PT. DEF",
@@ -143,7 +165,9 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
         { "id": 6 }
     ]
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaProyek": "Proyek D",
     "client": "PT. GHI",
@@ -156,7 +180,9 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
         { "id": 8 }
     ]
 }
+```
 === [Hanya Pemisah agar tidak Bingung] ===
+```json
 {
     "namaProyek": "Proyek E",
     "client": "PT. JKL",
@@ -169,6 +195,7 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
         { "id": 10 }
     ]
 }
+```
 
 # Catatan: Pastikan data Lokasi sudah dimasukkan terlebih dahulu sebelum mengisi data Proyek.
 
