@@ -1,6 +1,4 @@
-# TugasPTSurya_Springboot
-
-# RestAPI - Java Spring Boot
+# TugasPTSurya_Springboot (RestAPI - Java Spring Boot)
 
 Proyek ini adalah implementasi dari RestAPI menggunakan Java Spring Boot. Proyek ini dirancang untuk menyediakan endpoint untuk mengelola data Lokasi dan Proyek. 
 
