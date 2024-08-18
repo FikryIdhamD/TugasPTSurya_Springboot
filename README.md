@@ -116,7 +116,7 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Lokasi di RestAPI:
 }
 ```
 
-## Catatan: Masukkan data satu per satu, jangan secara keseluruhan.
+## Catatan: Masukkan data satu per satu, jangan langsung keseluruhan.
 
 # Contoh Data untuk Pengisian Data Proyek
 
@@ -197,7 +197,7 @@ Berikut adalah data yang bisa digunakan untuk mengisi data Proyek di RestAPI:
 }
 ```
 
-## Catatan: Pastikan data Lokasi sudah dimasukkan terlebih dahulu sebelum mengisi data Proyek.
+## Catatan: Masukkan data satu per satu, jangan langsung keseluruhan dan Pastikan data Lokasi sudah dimasukkan terlebih dahulu sebelum mengisi data Proyek.
 
 # Langkah Selanjutnya
 
