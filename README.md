@@ -2,11 +2,18 @@
 
 Proyek ini adalah implementasi dari RestAPI menggunakan Java Spring Boot. Proyek ini dirancang untuk menyediakan endpoint untuk mengelola data Lokasi dan Proyek. 
 
+## Yang Saya Gunakan :
+    - Project = Maven
+    - Language = Java
+    - Spring Boot = 3.4.0 (M1)
+    - Java = ver 21
+    - Dependencies = Spring WEB, Spring Data JPA, H2 Database
 ## Cara Menjalankan Proyek
 
 1. **Gunakan IntelliJ IDEA**:
    - Buka proyek ini menggunakan IntelliJ IDEA.
    - Jalankan aplikasi Spring Boot dari IntelliJ IDEA.
+   - Bila sudah, seharusnya Tomcat pada XAMPP Berjalan
 
 2. **Akses Endpoint Utama**:
    - Setelah aplikasi berjalan, Anda dapat mengakses dua link utama berikut:
