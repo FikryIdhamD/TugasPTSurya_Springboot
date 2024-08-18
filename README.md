@@ -2,7 +2,7 @@
 
 Proyek ini adalah implementasi dari RestAPI menggunakan Java Spring Boot. Proyek ini dirancang untuk menyediakan endpoint untuk mengelola data Lokasi dan Proyek. 
 
-## Yang Saya Gunakan :
+## Yang Saya Gunakan
     - Project = Maven
     - Language = Java
     - Spring Boot = 3.4.0 (M1)
